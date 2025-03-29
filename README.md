@@ -1,38 +1,29 @@
-##Live Preiew: https://rakshithabr700.github.io/html_css_template_plantilla_transfer/
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# 🌿 Plantilla Transfer - HTML & CSS Template  
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+🌍 Live Preview: [View the Project](https://vijay-ky.github.io/html_css_template_plantilla_transfer/)  
 
-## Getting Started
+## 📌 About This Project  
+Plantilla Transfer is a clean and fully responsive HTML & CSS template designed for smooth navigation and seamless user experience. This template is ideal for businesses, portfolios, and personal websites looking for a modern and elegant design.  
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+## 🎨 Features & Technologies  
+✅ HTML5 & CSS3 🎨  
+✅ Fully Responsive & Mobile-Friendly 📱  
+✅ Smooth Page Transitions 🔄  
+✅ Modern & Minimalist UI ✨  
+✅ Cross-Browser Compatibility 🌐  
+✅ Easy to Customize & Lightweight 🔧  
 
-## Developing Using Source Files
+## 🚀 Getting Started  
+To use this template:  
+1. Clone the Repository  
+   ```sh
+   git clone https://github.com/vijay-ky/html_css_template_plantilla_transfer.git
+   ```
+2. Open `index.html` in your browser and explore the template!  
 
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
+## 👨‍💻 Author  
+This project is created by Vijay-KY. Feel free to modify and use it for your projects.  
 
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
+📜 License: Free for learning and personal use.  
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+💡 Bring elegance to your website with Plantilla Transfer! 🚀  
